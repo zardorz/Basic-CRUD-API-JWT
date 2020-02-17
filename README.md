@@ -1,11 +1,5 @@
-# Basic-CRUD-API-JWT
-Simple application, without further validation, to exemplify the use of a CRUD in Anlgular 8 with NetCore API using JWT and session control via database
+# aspnet-core-3-jwt-authentication-api
 
-## Clone or download the application
+ASP.NET Core 3.1 - JWT Authentication API
 
-- Restore package dependnecies NutGet
-- build
-- Set "DefaultConnection": "Server=BAUER-PC\SQLEXPRESS2017;" inside "appsettings.json" to yoyr Sql Server
-- Select "WebApi" projet and RUN (this API dont have any custom/swagger page)
-- Set Up DB runing in PMC of VS 2019 dotnet ef database update --context ApiDbContext
-- Finally run project
+For documentation and instructions check out https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
