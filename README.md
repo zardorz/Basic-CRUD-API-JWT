@@ -1,5 +1,3 @@
-# aspnet-core-3-jwt-authentication-api
-
 Clone or download the application
 
 API
