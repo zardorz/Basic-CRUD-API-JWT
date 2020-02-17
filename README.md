@@ -1,5 +1,12 @@
 # aspnet-core-3-jwt-authentication-api
 
-ASP.NET Core 3.1 - JWT Authentication API
+Clone or download the application
 
-For documentation and instructions check out https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+API
+
+Restore package dependnecies NutGet
+build
+Set "DefaultConnection": "Server=BAUER-PC\SQLEXPRESS2017;" inside "appsettings.json" to yoyr Sql Server
+Select "WebApi" projet and RUN (this API dont have any custom/swagger page)
+Set Up DB runing in PMC of VS 2019 dotnet ef database update --context ApiDbContext
+Finally run project
