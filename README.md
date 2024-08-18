@@ -12,4 +12,4 @@ API
 The Font End is in https://github.com/zardorz/Basic-CRUD-Angular-8
 
 
-#Este repo é basicamente para POC's e testes em geral. Se tiver interesse em ver meus projetos reais envie um e-mail para webmaster@asgi.com.br explicando o motivo do acesso.
+#Este repo é basicamente para POC's e testes em geral.
